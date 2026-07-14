@@ -10,7 +10,7 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Evaluación Final Transversal de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
+Este proyecto corresponde a la Sumativa número 3 de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
@@ -34,7 +34,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/cosmos010101/Semana3.git
+git clone https://github.com/cosmos010101/Sumativa3POO.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -48,7 +48,7 @@ git clone https://github.com/cosmos010101/Semana3.git
 
 ---
 
-**Repositorio GitHub:** (https://github.com/cosmos010101/Semana3.git)
+**Repositorio GitHub:** (https://github.com/cosmos010101/Sumativa3POO.git)
 **Fecha de entrega:** [08/06/2026]
 
 ---
